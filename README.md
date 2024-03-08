@@ -1,2 +1,2 @@
 # Ma_CMO_Labeling_of_RGCs
-code relevant to the associatied publication
+This repository contains the code used for the CMO Labeling of RGCs project (publication: XXX)
